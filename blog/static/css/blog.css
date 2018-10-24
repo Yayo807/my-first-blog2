@@ -1,11 +1,11 @@
 
 
 h1 a {
-    color: #FCA205;
+    color: darkblue;
     font-family: 'Lobster';
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: darkblue;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
